@@ -1,0 +1,13 @@
+com\infosys\demand\service\DemandServiceImpl.class
+com\infosys\demand\utility\LoggingAspect.class
+com\infosys\demand\repository\DemandRepo.class
+com\infosys\demand\exception\DemandException.class
+com\infosys\demand\dto\DemandDTO.class
+com\infosys\demand\service\DemandService.class
+com\infosys\demand\controller\DemandController.class
+com\infosys\demand\repository\DemandRepository.class
+com\infosys\demand\utility\ExceptionControllerAdvice.class
+com\infosys\demand\DemandMsApplication.class
+com\infosys\demand\SwaggerConfig.class
+com\infosys\demand\utility\ErrorInfo.class
+com\infosys\demand\entity\Demand.class
